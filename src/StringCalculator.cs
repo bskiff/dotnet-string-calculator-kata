@@ -6,7 +6,7 @@ namespace dotnet_string_calculator_kata
     {
         static int add(string args)
         {
-            return 0;
+            throw new NotImplementedException();
         }
     }
 }
