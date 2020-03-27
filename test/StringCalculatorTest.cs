@@ -11,11 +11,5 @@ namespace dotnet_string_calculator_kata
         {
             Assert.True(true);            
         }
-
-        [Fact]
-        public void BadTest()
-        {
-            Assert.True(true);            
-        }
     }
 }
